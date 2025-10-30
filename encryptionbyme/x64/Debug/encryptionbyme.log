@@ -1,0 +1,5 @@
+﻿  encryption.cpp
+  encryptionbyme.cpp
+  Generating Code...
+C:\studystuff\randomprojects\encryptionbyme\encryptionbyme\encryption.cpp(42,1): warning C4715: 'encryptFile': not all control paths return a value
+  encryptionbyme.vcxproj -> C:\studystuff\randomprojects\encryptionbyme\x64\Debug\encryptionbyme.exe
