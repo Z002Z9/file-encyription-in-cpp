@@ -1,3 +1,3 @@
 ﻿  encryption.cpp
-E:\egyetem\randomprojektek\encryptionapp\encryptionbyme\encryption.cpp(150,1): warning C4715: 'encryptFile': not all control paths return a value
+E:\egyetem\randomprojektek\encryptionapp\encryptionbyme\encryption.cpp(285,1): warning C4715: 'encryptFile': not all control paths return a value
   encryptionbyme.vcxproj -> E:\egyetem\randomprojektek\encryptionapp\x64\Debug\encryptionbyme.exe
